@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Filbaan Data feature.
+ */
+
+include_once 'filbaan_data.features.inc';
